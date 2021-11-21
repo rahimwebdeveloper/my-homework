@@ -1,0 +1,114 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+section{
+     height: 400px;
+     padding: 100px;
+ 
+}
+p,h5{
+    color: gray;
+}
+.jack-smith{
+    font-size: 35px ;
+    color: DeepPink;
+}
+.heder-banner{
+   background-image: url(imges/header-bg.png);
+   background-size: 100% 100%;
+  
+}
+.heder{
+    margin-top: 7%;
+
+}
+.helf-width{
+    width: 40%;
+    margin-left: 5%;
+    float: left;
+
+}
+.helf-width img{
+      width: 100%;
+   
+    
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,rgb(252, 119, 190), rgb(236, 101, 173) );
+    padding: 10px 20px;
+    border-radius: 10px ;
+    color: white;
+    font-weight: 900;
+}
+.biography{
+    padding: 100;
+    
+}
+
+.biography{
+    background-image: url(imges/biography-bg.png);
+    background-size: 100% 100%;
+}
+h2{
+    font-size: 30px ;
+    text-align: center;
+}
+.work{
+    padding: 15px ;
+    width: 30%;
+    float: left;
+}
+.work img{
+    width: 100%;
+   
+}
+.latest{
+    background-image: url(imges/latest-work-bg.png);
+    background-size: 100% 100%;
+}
+.footer{
+    background-image: url(imges/footer-bg.png);
+    background-size: 100% 100%;
+
+}
+
+.about{
+    text-align: center;
+}
+.about h1{
+    font-size: 50px;
+}
+.about p{
+  font-size: 20px ;
+}
+#moccy{
+    font-size: 25px;
+    color: black;
+}
+#footer1{
+    height: 600px;
+     padding: 50px;
+ 
+}
+#footer-text{
+    margin: 0;
+    padding: 0%;
+}
+#box{
+    width: 60%;
+    margin-left: 20%;
+    margin-right:20% ;
+    height: 150px;
+    background-color: deeppink;
+    border-radius: 10px;
+    padding: 40px ;
+}
+.text h1,h3{
+    text-align: center;
+    color: white;
+}
+footer{
+    text-align: center;
+}
